@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper.aux
+The style file: apsrev4-2.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: paperNotes.bib
+Database file #2: lmto.bib
+control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev42Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{0}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 21 entries,
+            6079 wiz_defined-function locations,
+            1765 strings with 18245 characters,
+and the built_in function-call counts, 18919 in all, are:
+= -- 1440
+> -- 375
+< -- 118
++ -- 126
+- -- 96
+* -- 2656
+:= -- 1840
+add.period$ -- 19
+call.type$ -- 21
+change.case$ -- 94
+chr.to.int$ -- 31
+cite$ -- 21
+duplicate$ -- 1814
+empty$ -- 1363
+format.name$ -- 208
+if$ -- 3811
+int.to.chr$ -- 1
+int.to.str$ -- 28
+missing$ -- 288
+newline$ -- 109
+num.names$ -- 54
+pop$ -- 782
+preamble$ -- 1
+purify$ -- 94
+quote$ -- 0
+skip$ -- 862
+stack$ -- 0
+substring$ -- 472
+swap$ -- 1610
+text.length$ -- 39
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 258
+warning$ -- 1
+while$ -- 64
+width$ -- 0
+write$ -- 213
+(There was 1 warning)
