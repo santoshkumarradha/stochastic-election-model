@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 SEP 2020 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 SEP 2020 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -761,37 +761,36 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<figs/paths.png, id=36, 578.16pt x 216.81pt>
-File: figs/paths.png Graphic file (type png)
-<use figs/paths.png>
-Package pdftex.def Info: figs/paths.png  used on input line 77.
+) [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<paths.png, id=69, 578.16pt x 216.81pt>
+File: paths.png Graphic file (type png)
+<use paths.png>
+Package pdftex.def Info: paths.png  used on input line 77.
 (pdftex.def)             Requested size: 246.0pt x 92.24724pt.
- [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/pt_mu.png, id=79, 578.16pt x 361.35pt>
-File: figs/pt_mu.png Graphic file (type png)
-<use figs/pt_mu.png>
-Package pdftex.def Info: figs/pt_mu.png  used on input line 112.
+<pt_mu.png, id=79, 578.16pt x 361.35pt>
+File: pt_mu.png Graphic file (type png)
+<use pt_mu.png>
+Package pdftex.def Info: pt_mu.png  used on input line 112.
 (pdftex.def)             Requested size: 246.0pt x 153.74539pt.
-<figs/mu-sig.png, id=82, 578.16pt x 722.7pt>
-File: figs/mu-sig.png Graphic file (type png)
-<use figs/mu-sig.png>
-Package pdftex.def Info: figs/mu-sig.png  used on input line 121.
+<mu-sig.png, id=82, 578.16pt x 722.7pt>
+File: mu-sig.png Graphic file (type png)
+<use mu-sig.png>
+Package pdftex.def Info: mu-sig.png  used on input line 121.
 (pdftex.def)             Requested size: 246.0pt x 307.4908pt.
- [2 <./figs/paths.png> <./figs/pt_mu.png>]
-<figs/Pt.png, id=105, 578.16pt x 722.7pt>
-File: figs/Pt.png Graphic file (type png)
-<use figs/Pt.png>
-Package pdftex.def Info: figs/Pt.png  used on input line 156.
+ [2 <./paths.png> <./pt_mu.png>]
+<Pt.png, id=105, 578.16pt x 722.7pt>
+File: Pt.png Graphic file (type png)
+<use Pt.png>
+Package pdftex.def Info: Pt.png  used on input line 156.
 (pdftex.def)             Requested size: 246.0pt x 307.4908pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./figs/mu-sig.png>]
+[3 <./mu-sig.png>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 164.
+ on input line 163.
 
 (./paper.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 58--64
@@ -808,18 +807,18 @@ Underfull \hbox (badness 2103) in paragraph at lines 149--153
  []\OT1/cmr/m/n/9 J. Fern^^Sandez-Gracia, K. Suchecki, J. J. Ra-m-asco,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--191
+[4 <./Pt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--198
  []\OT1/cmr/m/n/9 P. E. Prot-ter, Stochas-tic dif-fer-en-tial equa-tions,
  []
 
 
-Underfull \hbox (badness 4205) in paragraph at lines 185--191
+Underfull \hbox (badness 4205) in paragraph at lines 192--198
  \OT1/cmr/m/n/9 in \OT1/cmr/m/it/9 Stochas-tic in-te-gra-tion and dif-fer-en-ti
 al equa-tions
  []
 
-[4 <./figs/Pt.png>]) [5]
+) [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (./paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
@@ -832,13 +831,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19839 strings out of 492616
+ 19840 strings out of 492616
  327890 string characters out of 6129482
  632103 words of memory out of 5000000
- 23553 multiletter control sequences out of 15000+600000
+ 23554 multiletter control sequences out of 15000+600000
  543038 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,63p,1317b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,10n,63p,1371b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></
@@ -857,10 +856,10 @@ ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on paper.pdf (5 pages, 1680733 bytes).
+Output written on paper.pdf (5 pages, 1682240 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 214 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

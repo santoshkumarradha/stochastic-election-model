@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex paper"] 1599683340 "paper.aux" "paper.bbl" "paper" 1599683363
+["bibtex paper"] 1599751090 "paper.aux" "paper.bbl" "paper" 1599751100
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1547851249 69612 d43c8740409d8c756864ce4e3d57a214 ""
-  "lmto.bib" 1599682138 5222 dfc28af17606dde10f819d22a00b17be ""
-  "paper.aux" 1599683363 5881 a674ba38699f41aa2c8dbd8614978577 "pdflatex"
-  "paperNotes.bib" 1599683363 232 c5a4bb0916091ec31252b59e2183ac0f "pdflatex"
+  "lmto.bib" 1599684151 5443 0b0349993011094615b46a81361f66a2 ""
+  "paper.aux" 1599751094 5956 690efdc30c712e9255c3be4cb893b4c0 "pdflatex"
+  "paperNotes.bib" 1599751094 232 c5a4bb0916091ec31252b59e2183ac0f "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
-["pdflatex"] 1599683359 "paper.tex" "paper.pdf" "paper" 1599683363
-  "/dev/null" 1599683362 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1599751091 "paper.tex" "paper.pdf" "paper" 1599751100
+  "/dev/null" 1599751099 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1246382020 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -126,17 +126,17 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "figs/Pt.png" 1599672194 342051 7542e8755c209229ec083281390a9b9e ""
-  "figs/mu-sig.png" 1599666508 443200 20f59f25166f687661df8a2d5ac903de ""
-  "figs/paths.png" 1599666378 320886 042ec872e413240e5f43ccd09b2a9bfe ""
-  "figs/pt_mu.png" 1599510611 591508 8074b007a392d1bab0c275f0f943cbaf ""
-  "paper.aux" 1599683363 5881 a674ba38699f41aa2c8dbd8614978577 "pdflatex"
-  "paper.bbl" 1599683340 12980 189b218ed896a896d08e774178c480d4 "bibtex paper"
-  "paper.out" 1599683363 211 b59a3adb56ab5e1ca888ae20ce6c03a2 "pdflatex"
-  "paper.tex" 1599683359 19169 bbef8a7534b8d15b9e36d3250013a58b ""
+  "Pt.png" 1599672194 342051 7542e8755c209229ec083281390a9b9e ""
+  "mu-sig.png" 1599666508 443200 20f59f25166f687661df8a2d5ac903de ""
+  "paper.aux" 1599751094 5956 690efdc30c712e9255c3be4cb893b4c0 "pdflatex"
+  "paper.bbl" 1599751091 13362 73b086f709251b7030e15a3b54c69570 "bibtex paper"
+  "paper.out" 1599751094 211 b59a3adb56ab5e1ca888ae20ce6c03a2 "pdflatex"
+  "paper.tex" 1599751100 19505 b9cf8be7207abd151dc6f08944f33cb1 ""
+  "paths.png" 1599666378 320886 042ec872e413240e5f43ccd09b2a9bfe ""
+  "pt_mu.png" 1599510611 591508 8074b007a392d1bab0c275f0f943cbaf ""
   (generated)
-  "paper.pdf"
   "paper.out"
-  "paper.log"
   "paper.aux"
   "paperNotes.bib"
+  "paper.pdf"
+  "paper.log"

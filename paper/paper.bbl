@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{19}%
+\begin{thebibliography}{20}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -158,6 +158,13 @@
   {\bibinfo  {journal} {Physica A: Statistical Mechanics and its Applications}\
   }\textbf {\bibinfo {volume} {336}},\ \bibinfo {pages} {56} (\bibinfo {year}
   {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Radha}(2019)}]{radha2019stochastic}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~K.}\ \bibnamefont
+  {Radha}},\ }\href@noop {} {\bibinfo {title} {Stochastic differential theory
+  of cricket}} (\bibinfo {year} {2019}),\ \Eprint
+  {https://arxiv.org/abs/1908.07372} {arXiv:1908.07372 [physics.soc-ph]}
+  \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Uhlenbeck}\ and\ \citenamefont
   {Ornstein}(1930)}]{PhysRev.36.823}%
   \BibitemOpen
